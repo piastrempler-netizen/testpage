@@ -2,15 +2,17 @@ body {
     font-family: Arial, sans-serif; 
     line-height: 1.6; 
 }
-/*nav {
-  position: fixed; 
-  top: 0;
-  left: 0; 
-  width: 100%;
-  background: #333;
-  padding: 1rem; 
-  z-index: 9999; 
-}*/
+nav {
+    position: fixed; 
+    top: 0;
+    left: 0; 
+    width: 100%;
+    background: #333;
+    padding: 1rem; 
+    z-index: 9999;
+    color: #FFFFF;
+    
+}
 
 nav ul {
     list-style: none; 

@@ -22,3 +22,10 @@ nav ul {
 nav ul li {
     margin: 0 1rem; 
 }
+
+footer {
+    background: #333; 
+    color: #FFFFFF; 
+    text-align: center;
+    padding: 1rem;
+}

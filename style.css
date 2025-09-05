@@ -10,5 +10,10 @@ nav {
   background: #333;
   padding: 1rem; 
   z-index: 9999; 
+}
 
+nav ul {
+    list-style: none; 
+    display: flex; 
+    justify-content: center;
 }

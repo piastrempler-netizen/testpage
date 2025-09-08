@@ -10,8 +10,7 @@ nav {
     background: #333;
     padding: 1rem; 
     z-index: 9999;
-    color: #FFFFFF;
-    
+    color: #FFFFFF; 
 }
 
 nav ul {
@@ -31,6 +30,29 @@ nav ul li a {
 nav ul li a:hover {
     background: #575757;
     border-radius:5px;
+}
+
+section {
+    height: 100hv;
+    display: flex;
+    align-items: cover;
+    justify-content: center;
+    flex-direction: column; 
+    padding: 2rem;
+    
+}
+
+#home {
+    background: #f4f4f4;
+}
+#about {
+    background: #ddd;
+}
+#contact {
+    background: #bbb;
+}
+#faq {
+    background: #999;
 }
 
 footer {
